@@ -10,6 +10,7 @@
 <br>
 I love solving problems through softwares and coding. Currently studying Web Development.
 
-<img width="320" alt="image" src="https://user-images.githubusercontent.com/98934239/198510525-d6ae74d0-a284-4689-9846-6af1f5ff13d5.png">
+<img width="814" alt="github bio" src="https://github.com/Atharvp01/Atharvp01/assets/98934239/e01a783d-b46d-4233-b554-19f57890b8c0">
 <br>
+
 <br>
