@@ -8,7 +8,7 @@
 </a>
 <br>
 <br>
-I love solving problems through softwares and coding. Currently studying Web Development.
+I love solving problems through softwares and coding. Currently studying Web Development and DSA.
 
 <img width="814" alt="github bio" src="https://github.com/Atharvp01/Atharvp01/assets/98934239/e01a783d-b46d-4233-b554-19f57890b8c0">
 <br>
