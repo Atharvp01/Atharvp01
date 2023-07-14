@@ -11,7 +11,7 @@
 <br>
 I love solving problems through softwares and coding. Currently studying Web Development and DSA.
 
-<img width="814" alt="github bio" src="https://img.icons8.com/ios-glyphs/30/github.png">
+<img width="22" alt="github bio" src="https://img.icons8.com/ios-glyphs/30/github.png">
 <br>
 
 <br>
