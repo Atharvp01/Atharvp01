@@ -1,6 +1,6 @@
 <h1 align="center">👋🔥Hello World, I'm Atharv Patil!</h1>
 <h2 align="center">
-I love solving problems through softwares and coding
+I love solving problems through software's and coding
 </h2>
 <br>
 <h3 align="left">Connect with me:</h3>
